@@ -1,7 +1,7 @@
 {
-name: "modely",
-website: "https://raw.githubusercontent.com/sonamsaini/modely/master/metadata.json",
-description: "Tesla Model Y",
-logo: "https://raw.githubusercontent.com/sonamsaini/modely/master/modely.png",
-twitter: ""
+"name": "modely",
+"website": "https://raw.githubusercontent.com/sonamsaini/modely/master/metadata.json",
+"description": "Tesla Model Y",
+"logo": "https://raw.githubusercontent.com/sonamsaini/modely/master/modely.png",
+"twitter": ""
 }
